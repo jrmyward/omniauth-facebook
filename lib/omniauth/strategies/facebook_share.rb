@@ -12,7 +12,7 @@ module OmniAuth
 
       DEFAULT_SCOPE = 'email'
 
-      option :name, 'facebook_share'
+      # option :name, 'facebook_share'
 
       option :client_options, {
         :site => 'https://graph.facebook.com',
